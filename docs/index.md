@@ -8,7 +8,7 @@ Follow the steps below. Watch the short video snippets for a visual guide on eac
 
 ## Step 1: Define Overall Workbench Dimensions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8CZGvJ0rix0" title="Step 1 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/8CZGvJ0rix0" title="Step 1 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Before drawing anything, we want to establish the maximum envelope of our workbench using variables. This makes it easy to resize the table later without breaking the model.
 
